@@ -1,0 +1,15 @@
+{
+  "name": "whatsapp-web-windows",
+  "productName": "WhatsApp Web",
+  "version": "1.0.0",
+  "description": "WhatsApp Web em janela propria pra Windows (wrapper Electron)",
+  "main": "main.js",
+  "author": "Heitor",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "@electron/packager": "^20.3.0"
+  }
+}
